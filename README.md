@@ -1,2 +1,2 @@
 # image-downloader
-This app is created for downloading thoursands of image file from excel file
+This app is created for downloading thousands of image file from excel file
